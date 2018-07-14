@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="make_question">Hacer Pregunta</string>
+    <string name="question_text">Respuesta</string>
+    <string name="et_question">Pregunta</string>
+    <string name="answer">Responder</string>
+</resources>
